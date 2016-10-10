@@ -4,7 +4,7 @@ A Vim snippet library for ES2015. You may also want to check out [vim-react-snip
 
 Requires [UltiSnips](https://github.com/SirVer/ultisnips).
 
-![vim-es2015-snippets](http://i.imgur.com/ImgaW2k.gif)
+![vim-es2015-snippets](http://i.imgur.com/7EnLr1m.gif)
 
 ## Installation
 
